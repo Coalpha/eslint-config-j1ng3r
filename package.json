@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-j1ng3r",
+  "version": "0.0.1",
+  "description": "A very permissive config geared more towards solving errors rather than style",
+  "main": "index.js",
+  "homepage": "https://github.com/Coalpha/eslint-config-j1ng3r#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coalpha/eslint-config-j1ng3r.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Coalpha/eslint-config-j1ng3r/issues"
+  },
+  "author": "Cole Gannon",
+  "license": "SEE LICENSE IN LICENCE",
+  "peerDependencies": {
+    "eslint": "^5.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}
