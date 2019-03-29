@@ -1,9 +1,10 @@
 # eslint-config-j1ng3r
 
-Attempt at making an eslint config that pleases Marcus.
+An ESLint config made by [me](https://github.com/Coalpha) for [Marcus](https://github.com/j1ng3r).
+
 Warnings are suggestions.
 Errors should always be followed.
-This repository is not published on npm.
+This repository is not published on npm (yet).
 
 ## Installation
 
