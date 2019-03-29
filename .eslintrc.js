@@ -105,7 +105,7 @@ module.exports = {
     "switch-colon-spacing":[2,noSpace],
     // es6
     "arrow-body-style":2,
-    "as-needed":2,
+    "arrow-parens": [2,"as-needed"],
     "generator-star-spacing":[2,noSpace],
     "no-class-assign":2,
     "no-const-assign":2,

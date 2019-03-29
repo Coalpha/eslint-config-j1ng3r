@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-j1ng3r",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A very permissive config geared more towards solving errors rather than style",
   "main": "index.js",
   "homepage": "https://github.com/Coalpha/eslint-config-j1ng3r#readme",
